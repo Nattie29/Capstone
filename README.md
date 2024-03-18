@@ -6,21 +6,21 @@ My capstone project
 ### The Problem area: 
 Can we use machine learning to predict how will the air quality index be in the next 5 years? 
 Is there any relationship between air quality and health? Nowadays, we know what will impact air pollution. 
-I would like to address the AQI and number of deaths in selected Asian countries and compare between low AQI and high AQI areas.
-	- Bangladesh
-	- Bhutan
-	- India
-	- Indonesia
-	- Sri Lanka
-	- Thailand  
+I would like to address the AQI and number of deaths in selected Asian countries and compare between low AQI and high AQI areas.\
+	- Bangladesh\
+	- Bhutan\
+	- India\
+	- Indonesia\
+	- Sri Lanka\
+	- Thailand\
 #### The User:  
 The user will be the world population especially people in selected Asian countries who are stressed from air pollution. The outcomes to be aware to create high chances of AQI. 
 ### The Big Idea: 
 The machine learning approach will be using historical AQI data, and historical death causes data. And predict the relationship between air quality and the number of deaths which is assumed that caused by high AQI.
 
 **Approach** 
-		- Logistic Regression
-		- Time series
+		- Logistic Regression\
+		- Time series\
 
 ### The Impact: 
 The results of this project should raise awareness of air pollution and reduce the number of deaths of people by at least 1%, especially in the concerned areas.
@@ -42,4 +42,11 @@ Currently, I reference to datasets below.
 Southeast Asia countries are faced with air pollution every year. People are aware of their health and many people reported that PM2.5 causes respiratory disease. 
 
 ### Next step 
-Add more year and countries to Deathrate dataset
+
+- Add more datapoint in the Deathrate dataset (year, countries)\
+- Add more datasets if any\
+- Using machine learning to predict AQI and Death rate\
+    - Logistic regression\
+    - Time series \
+    - Etc. (in case found proper other models)
+
