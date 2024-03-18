@@ -17,7 +17,8 @@ I would like to address the AQI and number of deaths in selected Asian countries
 The user will be the world population especially people in selected Asian countries who are stressed from air pollution. The outcomes to be aware to create high chances of AQI. 
 ### The Big Idea: 
 The machine learning approach will be using historical AQI data, and historical death causes data. And predict the relationship between air quality and the number of deaths which is assumed that caused by high AQI.
-	**Approach** 
+
+**Approach** 
 		- Logistic Regression
 		- Time series
 
@@ -25,15 +26,20 @@ The machine learning approach will be using historical AQI data, and historical 
 The results of this project should raise awareness of air pollution and reduce the number of deaths of people by at least 1%, especially in the concerned areas.
 ### The Data: 
 Dataset from WHO database (Air quality index, number of deaths by cause, pollution, dust, wildfire).
-	Currently, I reference to datasets below.
-	•Air quality index year 2000 – 2019 from WHO 
-	WHO. WHO Ambient Air Quality Database (update 2023). Version 6.0. Geneva, World Health Organization, 2023.
-	•Number of deaths by cause year 2015 – 2019 from WHO
-	**Next step**
-	•Study fact sheets and find some datasets about the causes of pollution and how they create bad air quality.
-	**The Alternative:** 
-	Southeast Asia countries are faced with air pollution every year. People are aware of their health and many people reported that PM2.5 causes respiratory disease. 
+Currently, I reference to datasets below.
+
+•Air quality index year 2000 – 2019 from WHO 
+    WHO. WHO Ambient Air Quality Database (update 2023). Version 6.0. Geneva, World Health Organization, 2023.
+    
+•Number of deaths by cause year 2015 – 2019 from WHO
+
+**Next step**
+
+•Study fact sheets and find some datasets about the causes of pollution and how they create bad air quality.
+
+**The Alternative:** 
+
+Southeast Asia countries are faced with air pollution every year. People are aware of their health and many people reported that PM2.5 causes respiratory disease. 
 
 ### Next step 
 Add more year and countries to Deathrate dataset
-	
