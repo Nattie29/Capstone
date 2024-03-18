@@ -33,6 +33,8 @@ Currently, I reference to datasets below.
     
 •Number of deaths by cause year 2015 – 2019 from WHO
 
+Data dictionary is provided in separated document.
+
 **Next step**
 
 •Study fact sheets and find some datasets about the causes of pollution and how they create bad air quality.
