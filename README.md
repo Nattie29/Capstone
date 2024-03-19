@@ -5,7 +5,9 @@ My capstone project
 
 ### The Problem area: 
 Can we use machine learning to predict how will the air quality index be in the next 5 years? 
-Is there any relationship between air quality and health? Nowadays, we know what will impact air pollution. 
+Is there any relationship between air quality and health (death rate) and what are the factors that impact air quality? 
+Nowadays, we know what will impact air pollution (wildfire, dust, car, manufacturing)
+
 I would like to address the AQI and number of deaths in selected Asian countries and compare between low AQI and high AQI areas.\
 	- Bangladesh\
 	- Bhutan\
