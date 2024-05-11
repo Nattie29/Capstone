@@ -1,16 +1,22 @@
 # Capstone Project AQI TO THE DEATH
-by Nattawaree Piyarat
+by Nattawaree Piyarat 
+
+Update Sprint 2  (May 11, 2024)
+- Add more datapoints
+- Found affect of delay relationship between AQI and motality
 
 My capstone project
 
 ### The Problem area: 
-Can we use machine learning to predict how will the air quality index be in the next 5 years? 
-Is there any relationship between air quality and health (death rate) and what are the factors that impact air quality? 
+Can machine learning predict the death rate against the Air Quality Index (AQI)?
+Is there any relationship between air quality and health (death rate) and what factors impact air quality? 
+
 Nowadays, we know what will impact air pollution (wildfire, dust, car, manufacturing)
 
-I would like to address the AQI and number of deaths in selected Asian countries and compare between low AQI and high AQI areas.\
+I would like to address the AQI and number of deaths in selected Asian countries.\
 	- Bangladesh\
 	- Bhutan\
+	- China\
 	- India\
 	- Indonesia\
 	- Sri Lanka\
@@ -18,11 +24,17 @@ I would like to address the AQI and number of deaths in selected Asian countries
 #### The User:  
 The user will be the world population especially people in selected Asian countries who are stressed from air pollution. The outcomes to be aware to create high chances of AQI. 
 ### The Big Idea: 
-The machine learning approach will be using historical AQI data, and historical death causes data. And predict the relationship between air quality and the number of deaths which is assumed that caused by high AQI.
+The machine learning approach will be using historical AQI data, and historical death causes data.\
+And predict the relationship between air quality and the number of deaths which is assumed that caused by high AQI.\
+Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
+
+
 
 **Approach**\
+		- Linear Regression\
 		- Logistic Regression\
-		- Time series
+		- Time series\
+		- KNN
 
 ### The Impact: 
 The results of this project should raise awareness of air pollution and reduce the number of deaths of people by at least 1%, especially in the concerned areas.
@@ -37,20 +49,13 @@ Currently, I reference to datasets below.
 
 Data dictionary is provided in separated document.
 
-**Next step**
-
-•Study fact sheets and find some datasets about the causes of pollution and how they create bad air quality.
-
-**The Alternative:** 
-
-Southeast Asia countries are faced with air pollution every year. People are aware of their health and many people reported that PM2.5 causes respiratory disease. 
 
 ### Next step 
 
-- Add more datapoint in the Deathrate dataset (year, countries)
-- Add more datasets if any
-- Using machine learning to predict AQI and Death rate
-    - Logistic regression
-    - Time series 
-    - Etc. (in case found proper other models)
+Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
+Using machine learning to predict AQI and Death rate
+	- Time series 
+	- Decision Tree
+	- KNN
+
 
