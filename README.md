@@ -1,5 +1,6 @@
 # Capstone Project AQI TO THE DEATH
-by Nattawaree Piyarat\ 
+by Nattawaree Piyarat
+
 GitHub link https://github.com/Nattie29/Capstone
 
 Update Sprint 2  (May 11, 2024)
