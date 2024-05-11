@@ -44,13 +44,17 @@ The results of this project should raise awareness of air pollution and reduce t
 Dataset from WHO database (Air quality index, number of deaths by cause, pollution, dust, wildfire).
 Currently, I reference to datasets below.
 
-•Air quality index year 2000 – 2019 from WHO 
+- Air quality index year 2000 – 2019 from WHO
     WHO. WHO Ambient Air Quality Database (update 2023). Version 6.0. Geneva, World Health Organization, 2023.
-    
-•Number of deaths by cause year 2015 – 2019 from WHO
+-  Number of deaths by cause year 2015 – 2019 from WHO
 
 The data dictionary is provided in a separate document.
 
+### Project Folders 
+- Docs: keep all documents and reports including presentation files.
+- Notebooks: keep Jupyter notebooks and data that using in the notebooks.
+- References: keep all data references.
+- Bak: for backup and archive files.
 
 ### Next step 
 
