@@ -55,9 +55,9 @@ The data dictionary is provided in a separate document.
 ### Next step 
 
 Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
-Using machine learning to predict AQI and Death rate
-	- Time series 
-	- Decision Tree
+Using machine learning to predict AQI and Death rate.\
+	- Time series\
+	- Decision Tree\
 	- KNN
 
 
