@@ -1,9 +1,10 @@
 # Capstone Project AQI TO THE DEATH
 by Nattawaree Piyarat 
+GitHub link https://github.com/Nattie29/Capstone
 
 Update Sprint 2  (May 11, 2024)
-- Add more datapoints
-- Found affect of delay relationship between AQI and motality
+- Add more data points
+- Found the effect of delay relationship between AQI and mortality
 
 My capstone project
 
@@ -13,7 +14,7 @@ Is there any relationship between air quality and health (death rate) and what f
 
 Nowadays, we know what will impact air pollution (wildfire, dust, car, manufacturing)
 
-I would like to address the AQI and number of deaths in selected Asian countries.\
+I would like to address the AQI and the number of deaths in selected Asian countries.\
 	- Bangladesh\
 	- Bhutan\
 	- China\
@@ -22,7 +23,7 @@ I would like to address the AQI and number of deaths in selected Asian countries
 	- Sri Lanka\
 	- Thailand
 #### The User:  
-The user will be the world population especially people in selected Asian countries who are stressed from air pollution. The outcomes to be aware to create high chances of AQI. 
+The users will be the world population especially people in selected Asian countries who are stressed from air pollution. The outcomes to be aware to create high chances of AQI. 
 ### The Big Idea: 
 The machine learning approach will be using historical AQI data, and historical death causes data.\
 And predict the relationship between air quality and the number of deaths which is assumed that caused by high AQI.\
@@ -47,7 +48,7 @@ Currently, I reference to datasets below.
     
 •Number of deaths by cause year 2015 – 2019 from WHO
 
-Data dictionary is provided in separated document.
+The data dictionary is provided in a separate document.
 
 
 ### Next step 
