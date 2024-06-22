@@ -65,3 +65,9 @@ Using machine learning to predict AQI and Death rate.\
 	- KNN
 
 
+13-Jun
+1. Run decision Tree
+2. Decision Trees
+3. Evaluate model
+4. หาวิธี predict
+5. Linear ด้วย deathrate 
