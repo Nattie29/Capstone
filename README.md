@@ -9,23 +9,19 @@ Update Sprint 2  (May 11, 2024)
 
 My capstone project
 
-### The Problem area: 
+###  The Problem area: 🌱
 Can machine learning predict the death rate against the Air Quality Index (AQI)?
 Is there any relationship between air quality and health (death rate) and what factors impact air quality? 
 
 Nowadays, we know what will impact air pollution (wildfire, dust, car, manufacturing)
 
 I would like to address the AQI and the number of deaths in selected Asian countries.\
-	- Bangladesh\
-	- Bhutan\
 	- China\
 	- India\
-	- Indonesia\
-	- Sri Lanka\
 	- Thailand
-#### The User:  
+#### The User: 👩‍👩‍👧‍👦
 The users will be the world population especially people in selected Asian countries who are stressed from air pollution. The outcomes to be aware to create high chances of AQI. 
-### The Big Idea: 
+### The Big Idea: 💡
 The machine learning approach will be using historical AQI data, and historical death causes data.\
 And predict the relationship between air quality and the number of deaths which is assumed that caused by high AQI.\
 Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
@@ -38,19 +34,24 @@ Since the impact of the air quality index (AQI) on mortality takes time to becom
 		- Time series\
 		- KNN
 
-### The Impact: 
+### The Impact: ⚡
 The results of this project should raise awareness of air pollution and reduce the number of deaths of people by at least 1%, especially in the concerned areas.
-### The Data: 
+### The Data: 📄
 Dataset from WHO database (Air quality index, number of deaths by cause, pollution, dust, wildfire).
-Currently, I reference to datasets below.
+Currently, I reference the datasets below.
 
-- Air quality index year 2000 – 2019 from WHO
-    WHO. WHO Ambient Air Quality Database (update 2023). Version 6.0. Geneva, World Health Organization, 2023.
--  Number of deaths by cause year 2015 – 2019 from WHO
+1. Air Quality Index (2009–2019):
+- Initially sourced from WHO.
+- This dataset has been removed and replaced with another due to the inclusion of more pollutants, while retaining similar details.
+2. Number of Deaths by Cause (2016–2019):
+- Sourced from WHO.
+3. Air Quality Open Data Platform (2019–2020):
+- Sourced from The World Air Quality Index Project.
+- The data includes city-specific measurements, aggregated to calculate the mean air quality for each country on each date for this project.
 
 The data dictionary is provided in a separate document.
 
-### Project Folders 
+### Project Folders: 📂
 - Docs: keep all documents and reports including presentation files.
 - Notebooks: keep Jupyter notebooks and data that using in the notebooks.
 - References: keep all data references.
