@@ -22,19 +22,6 @@ I would like to address the AQI and the number of deaths in selected Asian count
 	- Thailand
 #### The User: 👩‍👩‍👧‍👦
 The users will be the world population especially people in selected Asian countries who are stressed from air pollution. The outcomes to be aware to create high chances of AQI. 
-### The Big Idea: 💡
-The machine learning approach will be using historical AQI data, and historical death causes data.\
-And predict the relationship between air quality and the number of deaths which is assumed that caused by high AQI.\
-Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
-
-
-
-**Approach**\
-		- Linear Regression\
-		- Logistic Regression\
-		- Time series\
-		- KNN
-
 ### The Impact: ⚡
 The results of this project should raise awareness of air pollution and reduce the number of deaths of people by at least 1%, especially in the concerned areas.
 ### The Data: 📄
@@ -52,24 +39,37 @@ Currently, I reference the datasets below.
 
 The data dictionary is provided in a separate document.
 
+### The Big Idea: 💡
+The machine learning approach will be using historical AQI data, and historical death causes data.\
+And predict the relationship between air quality and the number of deaths which is assumed that caused by high AQI.\
+Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
+
+**Focus** at level 5 (Very poor)
+
+![2024-06-23_00-06-44](https://github.com/Nattie29/Capstone/assets/159632621/aa99ece3-f5db-4574-801f-efcd4f575a07)
+
+**Model candidates**
+- Linear Regression
+- Logistic Regression
+- KNN
+- Decision Tree
+
+#### Selected Model is KNN 
+Reasons:
+- High R^2
+- Low MEA, MSE, and RMSE
+- High Accuracy
+
+  # Picture!!
+
 ### Project Folders: 📂
 - Docs: keep all documents and reports including presentation files.
-- Notebooks: keep Jupyter notebooks and data that using in the notebooks.
+- Notebooks: keep Jupyter notebooks and data that are used in the notebooks.
 - References: keep all data references.
 - Bak: for backup and archive files.
 
-### Next step 
+### Takeaway from the project (Next step)
 
 Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
-Using machine learning to predict AQI and Death rate.\
-	- Time series\
-	- Decision Tree\
-	- KNN
 
 
-13-Jun
-1. Run decision Tree
-2. Decision Trees
-3. Evaluate model
-4. หาวิธี predict
-5. Linear ด้วย deathrate 
