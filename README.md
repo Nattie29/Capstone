@@ -3,9 +3,10 @@ by Nattawaree Piyarat
 
 GitHub link https://github.com/Nattie29/Capstone
 
-Update Sprint 2  (May 11, 2024)
-- Add more data points
-- Found the effect of delay relationship between AQI and mortality
+Update Sprint 3  (July 8, 2024)
+- Visualization
+- EDA insight
+- Model optimization, evaluation, and interpretation.
 
 My capstone project
 
@@ -42,10 +43,10 @@ Currently, I reference the datasets below.
 
 1. Air Quality Index (2009–2019):
 - Initially sourced from WHO.
-- This dataset has been removed and replaced with another due to the inclusion of more pollutants, while retaining similar details.
+- This dataset has been removed and replaced with another due to the inclusion of more pollutants while retaining similar details.
 2. Number of Deaths by Cause (2016–2019):
 - Sourced from WHO.
-3. Air Quality Open Data Platform (2019–2020):
+3. Air Quality Open Data Platform (2019–2020): https://aqicn.org/data-platform/covid19/
 - Sourced from The World Air Quality Index Project.
 - The data includes city-specific measurements, aggregated to calculate the mean air quality for each country on each date for this project.
 
