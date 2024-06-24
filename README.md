@@ -41,12 +41,12 @@ The data dictionary is provided in a separate document.
 
 ### The Big Idea: 💡
 The machine learning approach will be using historical AQI data, and historical death causes data.\
-And predict the relationship between air quality and the number of deaths which is assumed that caused by high AQI.\
+And predict the relationship between air quality and the number of deaths assumed to be caused by high AQI.\
 Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
 
 **Focus** at level 5 (Very poor)
 
-![2024-06-23_00-06-44](https://github.com/Nattie29/Capstone/assets/159632621/aa99ece3-f5db-4574-801f-efcd4f575a07)
+![image](https://github.com/Nattie29/Capstone/assets/159632621/7eb101c8-d6ab-4557-a9b8-3297d39e3a25)
 
 **Model candidates**
 - Linear Regression
@@ -56,9 +56,10 @@ Since the impact of the air quality index (AQI) on mortality takes time to becom
 
 #### Selected Model is KNN 
 Reasons:
-- High R^2
-- Low MEA, MSE, and RMSE
-- High Accuracy
+- A good score of R^2 should be close to 1
+- MAE and MSE should close to 0
+- RMSE should be between 0.2-0.5
+- From above table shows each model's results almost the same but the KNN is the best from those 3 models.
 
   # Picture!!
 
@@ -68,7 +69,7 @@ Reasons:
 - References: keep all data references.
 - Bak: for backup and archive files.
 
-### Takeaway from the project (Next step)
+### Key Takeaways from the project (Next step)
 
 Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
 
