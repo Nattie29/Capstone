@@ -46,7 +46,7 @@ Since the impact of the air quality index (AQI) on mortality takes time to becom
 
 **Focus** at level 5 (Very poor)
 
-![image](https://github.com/Nattie29/Capstone/assets/159632621/7eb101c8-d6ab-4557-a9b8-3297d39e3a25)
+![image](https://github.com/Nattie29/Capstone/assets/159632621/682fe791-46e1-4b88-8760-51cbef12f7d2)
 
 **Model candidates**
 - Linear Regression
