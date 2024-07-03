@@ -40,7 +40,7 @@ Currently, I reference the datasets below.
 The data dictionary is provided in a separate document.
 
 ### The Big Idea: 💡
-The machine learning approach will be using historical AQI data, and historical death causes data.\
+The machine learning approach will use historical AQI data, and historical death causes data.\
 And predict the relationship between air quality and the number of deaths assumed to be caused by high AQI.\
 Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
 
@@ -48,13 +48,13 @@ Since the impact of the air quality index (AQI) on mortality takes time to becom
 
 ![image](https://github.com/Nattie29/Capstone/assets/159632621/682fe791-46e1-4b88-8760-51cbef12f7d2)
 
-**Model candidates**
+**Model candidates** 📊
 - Linear Regression
 - Logistic Regression
 - KNN
 - Decision Tree
 
-#### Selected Model is KNN 
+#### Selected Model is KNN 🏅
 Reasons:
 - A good score of R^2 should be close to 1
 - MAE and MSE should close to 0
