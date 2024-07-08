@@ -1,4 +1,5 @@
-# █▓▒▒░░░Capstone Project AQI TO THE DEATH░░░▒▒▓█
+### Capstone Project 
+# █▓▒▒░░░AQI TO THE DEATH░░░▒▒▓█
 by Nattawaree Piyarat
 
 GitHub link https://github.com/Nattie29/Capstone
@@ -20,7 +21,7 @@ I would like to address the AQI and the number of deaths in selected Asian count
 	- China\
 	- India\
 	- Thailand
-#### 👩‍👩‍👧‍👦The User:░░░▒▒▓█ 
+### 👩‍👩‍👧‍👦The User:░░░▒▒▓█ 
 The users will be the world population especially people in selected Asian countries who are stressed from air pollution. The outcomes to be aware to create high chances of AQI. 
 ### ⚡The Impact:░░░▒▒▓█ 
 The results of this project should raise awareness of air pollution and reduce the number of deaths of people by at least 1%, especially in the concerned areas.
@@ -54,14 +55,17 @@ Since the impact of the air quality index (AQI) on mortality takes time to becom
 - KNN
 - Decision Tree
 
-#### 🏅Selected Model is KNN:░░░▒▒▓█ 
+#### 🏅Selected Model is Logistic Regression:░░░▒▒▓█ 
+![image](https://github.com/Nattie29/Capstone/assets/159632621/3c41cad2-53c9-4f4d-9d6c-4e63c5c36657)
+![image](https://github.com/Nattie29/Capstone/assets/159632621/678849e0-2b49-45da-855b-e9c6f4bd7963) 
+
 Reasons:
 - A good score of R^2 should be close to 1
 - MAE and MSE should close to 0
 - RMSE should be between 0.2-0.5
-- From above table shows each model's results almost the same but the KNN is the best from those 3 models.
+- From above table shows each model's results almost the same but the Logistic Regression is the best from those 3 models.
 
-  # Picture!!
+  
 
 ### 📂Project Folders:░░░▒▒▓█ 
 - Docs: keep all documents and reports including presentation files.
@@ -71,6 +75,8 @@ Reasons:
 
 ### ⏭️Key Takeaways from the project (Next step)▄▀▄▀▄▀ 
 
-Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant.Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
+- Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant. Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
+- Find a relationship between asthma and pollutant density and improve the model to predict diseases or mortality.
+- Develop an application to predict the unhealthy indicators from the pollutants
 
 
