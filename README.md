@@ -56,14 +56,15 @@ Since the impact of the air quality index (AQI) on mortality takes time to becom
 - Decision Tree
 
 #### 🏅Selected Model is Logistic Regression:░░░▒▒▓█ 
-![image](https://github.com/Nattie29/Capstone/assets/159632621/3c41cad2-53c9-4f4d-9d6c-4e63c5c36657)
-![image](https://github.com/Nattie29/Capstone/assets/159632621/678849e0-2b49-45da-855b-e9c6f4bd7963) 
+![image](https://github.com/Nattie29/Capstone/assets/159632621/d7e83961-2085-4173-91b1-841cac50bc37)
 
+
+🏅Selected Model is XGBoost:
 Reasons:
-- A good score of R^2 should be close to 1
+- A good score of R2 should be close to 1
 - MAE and MSE should close to 0
-- RMSE should be between 0.2-0.5
-- From above table shows each model's results almost the same but the Logistic Regression is the best from those 3 models.
+- RMSE, the lower is better
+- The above table shows that each model’s results are almost the same but the **XGBoost** is the best from those 3 models.!
 
   
 
@@ -75,8 +76,9 @@ Reasons:
 
 ### ⏭️Key Takeaways from the project (Next step)▄▀▄▀▄▀ 
 
-- Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant. Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2)
-- Find a relationship between asthma and pollutant density and improve the model to predict diseases or mortality.
-- Develop an application to predict the unhealthy indicators from the pollutants
+- Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant. Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2) or add more countries. Issue of this version some countries did not provide all pollutants.
+- Find a relationship between asthma and pollutant density and improve the model to predict diseases or mortality. 
+- Develop an application to predict the unhealthy indicator.
+
 
 
