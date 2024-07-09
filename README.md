@@ -50,10 +50,10 @@ Since the impact of the air quality index (AQI) on mortality takes time to becom
 ![image](https://github.com/Nattie29/Capstone/assets/159632621/682fe791-46e1-4b88-8760-51cbef12f7d2)
 
 **📊Model candidates** 
-- Linear Regression
 - Logistic Regression
 - KNN
 - Decision Tree
+- XGBoost
 
 #### 🏅Selected Model is Logistic Regression:░░░▒▒▓█ 
 ![image](https://github.com/Nattie29/Capstone/assets/159632621/d7e83961-2085-4173-91b1-841cac50bc37)
