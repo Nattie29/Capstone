@@ -64,7 +64,7 @@ Reasons:
 - A good score of R2 should be close to 1
 - MAE and MSE should close to 0
 - RMSE, the lower is better
-- The above table shows that each model’s results are almost the same but the **XGBoost** is the best from those 3 models.!
+- The above table shows that each model’s results are almost the same but the **XGBoost** is the best from those 4 models.!
 
   
 
@@ -76,9 +76,10 @@ Reasons:
 
 ### ⏭️Key Takeaways from the project (Next step)▄▀▄▀▄▀ 
 
-- Since the impact of the air quality index (AQI) on mortality takes time to become evident, it's crucial to forecast AQI based on each pollutant. Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2) or add more countries. Issue of this version some countries did not provide all pollutants.
-- Find a relationship between asthma and pollutant density and improve the model to predict diseases or mortality. 
+- Since the impact of the air quality index (AQI) on mortality takes time to become evident. So, find the relationship between them or diseases such as asthma and pollutant density and improve the model to predict diseases or mortality.
+- Add more datasets that contain many pollutants (O3, PM2.5, PM10, CO2, NO2, CO, SO2) or add more countries. Issue of this version some countries did not provide all pollutants.
 - Develop an application to predict the unhealthy indicator.
+- Try the time series model and change the split Train/Test to a year instead of random.
 
 
 
