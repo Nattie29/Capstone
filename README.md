@@ -55,7 +55,7 @@ Since the impact of the air quality index (AQI) on mortality takes time to becom
 - Decision Tree
 - XGBoost
 
-#### 🏅Selected Model is Logistic Regression:░░░▒▒▓█ 
+#### 🏅Selected Model is XGBoost:░░░▒▒▓█ 
 ![image](https://github.com/Nattie29/Capstone/assets/159632621/d7e83961-2085-4173-91b1-841cac50bc37)
 
 
